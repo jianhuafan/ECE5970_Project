@@ -1,1 +1,2 @@
-# ECE5970_Project
+ECE5970 Machine Learning
+Class Project
