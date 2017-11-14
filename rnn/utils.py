@@ -24,10 +24,7 @@ def output_parse(fpath):
 		data = list(csv.reader(f, quoting=csv.QUOTE_NONNUMERIC))
 	data = np.asarray(data, dtype=np.float32)
 	return data
-# build the batches for training: X[i] --> y[i]
-# ['H' 'e' 'l' 'l' 'o' ' ' 'd' 'a' 'r'] --> 'k'
-# ['e' 'l' 'l' 'o' ' ' 'd' 'a' 'r' 'k'] --> 'n'
-# ['l' 'l' 'o' ' ' 'd' 'a' 'r' 'k' 'n'] --> 'e', and so on
+
 def sequences(batch_size, sequence_length, input_path, output_path):
 	input_data = input_parse(input_path)
 	output_data = output_parse(output_path)
