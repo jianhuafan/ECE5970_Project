@@ -71,7 +71,7 @@ def parsing(inputfeature,traindata,testdata):
 				dt = float(testdata[j][0]) - float(inputfeaturetest[i][1]);
 				new = []
 				#new2 = []
-				new.append(int(float(inputfeaturetrain[i][0]))*10 + count);
+				new.append(int(float(inputfeaturetest[i][0]))*10 + count);
 				new.append(dt);#replace dt with t
 				#new2.append(traindata[j][1]);
 				for k in range(2,len(inputfeaturetest[0])):
