@@ -30,13 +30,13 @@ def build_graph(model, lr, lr_decay, lr_decay_after, grad_clipping, num_hidden, 
     keep_prob = tf.constant(1.0)
 
     # RNN
+    params = {}
     if model == 'lstm':
         cell_fn = rnn.BasicLSTMCell
-        params = {}
-        params['forget_bias'] = 0.0
+        params['forget_bias'] = 1.0
         params['state_is_tuple'] = True
     elif model == 'gru':
-        cell_fn = rnn.BasicGRUCell
+        cell_fn = rnn.GRUCell
     elif model == 'rnn':
         cell_fn = rnn.BasicRNNCell
     else:
@@ -205,15 +205,18 @@ def test_graph(load_model, model, num_layers, num_hidden, g, batch_size, train_s
                 if input_data is not None and y is not None:
                     feed = {g['X']: input_data, g['Y']: y}
                     loss_, accuracy_, s, _ = sess.run([g['loss'], g['accuracy'], g['summ'], g['ts']], feed_dict=feed)
-                        total_loss += [loss_]
-                        total_accuracy += [accuracy_]
-                        print("Minibatch Loss= " + \
-                        "{:.4f}".format(loss_) + ", Testing Accuracy= " + \
-                        "{:.3f}".format(accuracy_))
+                    total_loss += [loss_]
+                    total_accuracy += [accuracy_]
+                    print("Minibatch Loss= " + \
+                    "{:.4f}".format(loss_) + ", Testing Accuracy= " + \
+                    "{:.3f}".format(accuracy_))
             
             print("Testing Loss= " + \
                         "{:.4f}".format(np.mean(total_loss)) + ", Testing Accuracy= " + \
                         "{:.3f}".format(np.mean(total_accuracy)))
+        except KeyboardInterrupt:
+            print('caught ctrl-c, stopping testing')
+
 
 
 def create_tuple_placeholders_with_default(inputs, extra_dims, shape):
