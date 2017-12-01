@@ -1,0 +1,65 @@
+rnn
+-----------
+user instruction
+1. To train, run $python train.py
+2. To test, run $python test.py
+3. To adjust parameters of rnn model when training or testing, run $python train.py —parameter parameter_value.
+type $python train.py —help or $python test.py —help
+for more details.
+For example:
+train.py [-h] [--model MODEL] [--load_model LOAD_MODEL]
+                [--weights_fpath WEIGHTS_FPATH] [--num_hidden NUM_HIDDEN]
+                [--num_layers NUM_LAYERS] [--batch_size BATCH_SIZE]
+                [--train_seq_length TRAIN_SEQ_LENGTH]
+                [--max_epochs MAX_EPOCHS] [--grad_clipping GRAD_CLIPPING]
+                [--lr LR] [--lr_decay LR_DECAY]
+                [--lr_decay_after LR_DECAY_AFTER]
+                [--input_train_fpath INPUT_TRAIN_FPATH]
+                [--output_train_fpath OUTPUT_TRAIN_FPATH]
+                [--input_test_fpath INPUT_TEST_FPATH]
+                [--output_test_fpath OUTPUT_TEST_FPATH]
+
+optional arguments:
+  -h, --help            show this help message and exit
+  --model MODEL         tpye of rnn:lstm, gru or rnn
+  --load_model LOAD_MODEL
+                        whether load a pre-traind model
+  --weights_fpath WEIGHTS_FPATH
+                        path of weitght
+  --num_hidden NUM_HIDDEN
+                        size of RNN hidden state
+  --num_layers NUM_LAYERS
+                        number of layers in the RNN
+  --batch_size BATCH_SIZE
+                        minibatch size
+  --train_seq_length TRAIN_SEQ_LENGTH
+                        RNN sequence length in training phase
+  --max_epochs MAX_EPOCHS
+                        number of epochs
+  --grad_clipping GRAD_CLIPPING
+                        clip gradients at this value
+  --lr LR               learning rate
+  --lr_decay LR_DECAY   the decay rate of learning rate
+  --lr_decay_after LR_DECAY_AFTER
+                        number of epochs to start decaying the learning rate
+  --input_train_fpath INPUT_TRAIN_FPATH
+                        data directory containing input_train
+  --output_train_fpath OUTPUT_TRAIN_FPATH
+                        data directory containing output_train
+  --input_test_fpath INPUT_TEST_FPATH
+                        data directory containing input_test
+  --output_test_fpath OUTPUT_TEST_FPATH
+                        data directory containing output_test
+-----------
+functions
+utils.py is used to read .csv and generate training data
+train.py and train_reg.py are used to train, classification and regression respectively.
+test.py and test_reg.py are used to test.
+rnn_model.py and rnn_regression.py are used to generate model.
+—————————
+libraries:
+tensorflow matplotlib
+
+
+
+

@@ -15,7 +15,7 @@ def reset_graph():
     tf.reset_default_graph()
 
 def build_graph(model, lr, lr_decay, lr_decay_after, grad_clipping, num_hidden, num_layers, batch_size, train_seq_length,
-    feature_size = 757,
+    feature_size = 370,
     num_classes = 3):
 
     reset_graph()
@@ -27,7 +27,7 @@ def build_graph(model, lr, lr_decay, lr_decay_after, grad_clipping, num_hidden, 
     
     
     seqlen = train_seq_length
-    keep_prob = tf.constant(1.0)
+    keep_prob = tf.constant(0.5)
 
     # RNN
     params = {}
@@ -55,7 +55,7 @@ def build_graph(model, lr, lr_decay, lr_decay_after, grad_clipping, num_hidden, 
 
     cells = [tf.contrib.rnn.DropoutWrapper(
         cell,
-        output_keep_prob=1.0)
+        output_keep_prob=0.5)
                for cell in cells]
 
     multi_cell = rnn.MultiRNNCell(cells)
@@ -83,8 +83,16 @@ def build_graph(model, lr, lr_decay, lr_decay_after, grad_clipping, num_hidden, 
     tf.summary.histogram("biases", b)
     logits = tf.matmul(last_rnn_output, W) + b
     preds = tf.nn.softmax(logits)
+
+    # (_, auc_update_op) = tf.contrib.metrics.streaming_auc(
+    #                 predictions=preds,
+    #                 labels=Y,
+    #                 curve='ROC')
+    # auc = tf.metrics.auc(Y, preds)
     # correct = tf.equal(tf.cast(tf.argmax(preds,1),tf.int32), y)
     # accuracy = tf.reduce_mean(tf.cast(correct, tf.float32))
+
+    
     correct_pred = tf.equal(tf.argmax(preds, 1), tf.argmax(Y, 1))
     accuracy = tf.reduce_mean(tf.cast(correct_pred, tf.float32))
 

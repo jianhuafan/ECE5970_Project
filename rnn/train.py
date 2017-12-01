@@ -20,7 +20,7 @@ def main():
                        help='minibatch size')
     parser.add_argument('--train_seq_length', type=int, default=15,
                        help='RNN sequence length in training phase')
-    parser.add_argument('--max_epochs', type=int, default=300,
+    parser.add_argument('--max_epochs', type=int, default=80,
                        help='number of epochs')
     parser.add_argument('--grad_clipping', type=float, default=1.,
                        help='clip gradients at this value') 

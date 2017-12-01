@@ -20,11 +20,11 @@ def main():
                        help='minibatch size')
     parser.add_argument('--train_seq_length', type=int, default=15,
                        help='RNN sequence length in training phase')
-    parser.add_argument('--max_epochs', type=int, default=100,
+    parser.add_argument('--max_epochs', type=int, default=80,
                        help='number of epochs')
     parser.add_argument('--grad_clipping', type=float, default=1.,
                        help='clip gradients at this value') 
-    parser.add_argument('--lr', type=float, default=0.002,
+    parser.add_argument('--lr', type=float, default=0.001,
                        help='learning rate')
     parser.add_argument('--lr_decay', type=float, default=0.97,
                        help='the decay rate of learning rate')
@@ -34,9 +34,9 @@ def main():
                        help='data directory containing input_train')
     parser.add_argument('--output_train_fpath', type=str, default='data/output_train.csv',
                        help='data directory containing output_train')
-    parser.add_argument('--input_test_fpath', type=str, default='data/input_test.csv',
+    parser.add_argument('--input_test_fpath', type=str, default='data/input_valid.csv',
                        help='data directory containing input_test')
-    parser.add_argument('--output_test_fpath', type=str, default='data/output_test.csv',
+    parser.add_argument('--output_test_fpath', type=str, default='data/output_valid.csv',
                        help='data directory containing output_test')
     args = parser.parse_args()
     test(args)

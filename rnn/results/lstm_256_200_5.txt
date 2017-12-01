@@ -1,0 +1,1402 @@
+epoch 1
+loss = 27.099655
+loss = 25.925640
+training time 0:00:03.070765
+  training loss:                 26.5126
+  best epoch:                    1
+  best training loss:            10
+epoch 2
+loss = 23.904467
+loss = 20.981579
+training time 0:00:07.341802
+  training loss:                 22.443
+  best epoch:                    1
+  best training loss:            10
+epoch 3
+loss = 18.101273
+loss = 15.680010
+training time 0:00:11.663759
+  training loss:                 16.8906
+  best epoch:                    1
+  best training loss:            10
+epoch 4
+loss = 13.664219
+loss = 11.829065
+training time 0:00:15.740505
+  training loss:                 12.7466
+  best epoch:                    1
+  best training loss:            10
+epoch 5
+loss = 10.535304
+loss = 9.491503
+training time 0:00:20.230960
+  training loss:                 10.0134
+  best epoch:                    1
+  best training loss:            10
+epoch 6
+loss = 8.789559
+loss = 7.789083
+training time 0:00:24.535819
+  training loss:                 8.28932
+  best epoch:                    6
+  best training loss:            8.28932
+epoch 7
+loss = 7.551515
+loss = 6.655858
+training time 0:00:28.653018
+  training loss:                 7.10369
+  best epoch:                    7
+  best training loss:            7.10369
+epoch 8
+loss = 6.668676
+loss = 5.867309
+training time 0:00:32.838844
+  training loss:                 6.26799
+  best epoch:                    8
+  best training loss:            6.26799
+epoch 9
+loss = 5.993820
+loss = 5.481580
+training time 0:00:37.053514
+  training loss:                 5.7377
+  best epoch:                    9
+  best training loss:            5.7377
+epoch 10
+loss = 5.337040
+loss = 4.827562
+training time 0:06:53.788516
+  training loss:                 5.0823
+  best epoch:                    10
+  best training loss:            5.0823
+epoch 11
+loss = 4.908425
+loss = 4.931914
+training time 0:06:58.328785
+  training loss:                 4.92017
+  best epoch:                    11
+  best training loss:            4.92017
+epoch 12
+loss = 5.002831
+loss = 4.537062
+training time 0:07:02.716416
+  training loss:                 4.76995
+  best epoch:                    12
+  best training loss:            4.76995
+epoch 13
+loss = 4.584468
+loss = 4.502300
+training time 0:07:09.809431
+  training loss:                 4.54338
+  best epoch:                    13
+  best training loss:            4.54338
+epoch 14
+loss = 4.659793
+loss = 3.994757
+training time 0:07:16.941904
+  training loss:                 4.32728
+  best epoch:                    14
+  best training loss:            4.32728
+epoch 15
+loss = 4.181870
+loss = 3.922613
+training time 0:07:45.063524
+  training loss:                 4.05224
+  best epoch:                    15
+  best training loss:            4.05224
+epoch 16
+loss = 3.955796
+loss = 3.762273
+training time 0:07:52.812088
+  training loss:                 3.85903
+  best epoch:                    16
+  best training loss:            3.85903
+epoch 17
+loss = 4.113649
+loss = 3.922194
+training time 0:07:59.891552
+  training loss:                 4.01792
+  best epoch:                    16
+  best training loss:            3.85903
+epoch 18
+loss = 3.912012
+loss = 3.882533
+training time 0:08:11.032877
+  training loss:                 3.89727
+  best epoch:                    16
+  best training loss:            3.85903
+epoch 19
+loss = 4.123641
+loss = 3.746324
+training time 0:16:13.794427
+  training loss:                 3.93498
+  best epoch:                    16
+  best training loss:            3.85903
+epoch 20
+loss = 4.313026
+loss = 3.876793
+training time 0:16:24.293141
+  training loss:                 4.09491
+  best epoch:                    16
+  best training loss:            3.85903
+epoch 21
+loss = 4.168303
+loss = 4.031651
+training time 0:16:33.167692
+  training loss:                 4.09998
+  best epoch:                    16
+  best training loss:            3.85903
+epoch 22
+loss = 4.224960
+loss = 4.089650
+training time 0:53:43.220912
+  training loss:                 4.15731
+  best epoch:                    16
+  best training loss:            3.85903
+epoch 23
+loss = 4.002740
+loss = 3.977556
+training time 0:53:53.410136
+  training loss:                 3.99015
+  best epoch:                    16
+  best training loss:            3.85903
+epoch 24
+loss = 3.828604
+loss = 4.052112
+training time 0:54:01.688171
+  training loss:                 3.94036
+  best epoch:                    16
+  best training loss:            3.85903
+epoch 25
+loss = 4.028872
+loss = 3.951314
+training time 0:54:13.730722
+  training loss:                 3.99009
+  best epoch:                    16
+  best training loss:            3.85903
+epoch 26
+loss = 3.878357
+loss = 4.105360
+training time 2:54:18.178797
+  training loss:                 3.99186
+  best epoch:                    16
+  best training loss:            3.85903
+epoch 27
+loss = 4.258115
+loss = 3.708323
+training time 3:00:43.908222
+  training loss:                 3.98322
+  best epoch:                    16
+  best training loss:            3.85903
+epoch 28
+loss = 3.724068
+loss = 3.970393
+training time 5:00:54.547840
+  training loss:                 3.84723
+  best epoch:                    28
+  best training loss:            3.84723
+epoch 29
+loss = 4.002907
+loss = 3.865254
+training time 5:50:24.222355
+  training loss:                 3.93408
+  best epoch:                    28
+  best training loss:            3.84723
+epoch 30
+loss = 3.845954
+loss = 4.185885
+training time 5:50:35.423643
+  training loss:                 4.01592
+  best epoch:                    28
+  best training loss:            3.84723
+epoch 31
+loss = 3.968407
+loss = 3.691497
+training time 5:56:47.535105
+  training loss:                 3.82995
+  best epoch:                    31
+  best training loss:            3.82995
+epoch 32
+loss = 4.152735
+loss = 3.775252
+training time 5:57:31.257021
+  training loss:                 3.96399
+  best epoch:                    31
+  best training loss:            3.82995
+epoch 33
+loss = 4.087082
+loss = 3.852130
+training time 5:57:40.145775
+  training loss:                 3.96961
+  best epoch:                    31
+  best training loss:            3.82995
+epoch 34
+loss = 4.050028
+loss = 3.889460
+training time 6:03:13.510483
+  training loss:                 3.96974
+  best epoch:                    31
+  best training loss:            3.82995
+epoch 35
+loss = 4.077123
+loss = 3.737058
+training time 6:03:18.312231
+  training loss:                 3.90709
+  best epoch:                    31
+  best training loss:            3.82995
+epoch 36
+loss = 3.900759
+loss = 3.870853
+training time 6:03:23.595560
+  training loss:                 3.88581
+  best epoch:                    31
+  best training loss:            3.82995
+epoch 37
+loss = 3.918410
+loss = 3.874002
+training time 6:03:29.676017
+  training loss:                 3.89621
+  best epoch:                    31
+  best training loss:            3.82995
+epoch 38
+loss = 3.996431
+loss = 3.718770
+training time 6:03:34.845154
+  training loss:                 3.8576
+  best epoch:                    31
+  best training loss:            3.82995
+epoch 39
+loss = 4.045714
+loss = 3.916178
+training time 6:03:39.246664
+  training loss:                 3.98095
+  best epoch:                    31
+  best training loss:            3.82995
+epoch 40
+loss = 4.014076
+loss = 3.925870
+training time 6:03:43.814252
+  training loss:                 3.96997
+  best epoch:                    31
+  best training loss:            3.82995
+epoch 41
+loss = 4.035115
+loss = 3.894437
+training time 6:03:48.151173
+  training loss:                 3.96478
+  best epoch:                    31
+  best training loss:            3.82995
+epoch 42
+loss = 4.074828
+loss = 3.929535
+training time 6:03:52.510492
+  training loss:                 4.00218
+  best epoch:                    31
+  best training loss:            3.82995
+epoch 43
+loss = 4.255594
+loss = 3.983166
+training time 6:03:56.745723
+  training loss:                 4.11938
+  best epoch:                    31
+  best training loss:            3.82995
+epoch 44
+loss = 3.985005
+loss = 4.070378
+training time 6:04:00.989370
+  training loss:                 4.02769
+  best epoch:                    31
+  best training loss:            3.82995
+epoch 45
+loss = 3.875421
+loss = 3.983733
+training time 6:04:05.125806
+  training loss:                 3.92958
+  best epoch:                    31
+  best training loss:            3.82995
+epoch 46
+loss = 3.940686
+loss = 3.998155
+training time 6:04:09.390742
+  training loss:                 3.96942
+  best epoch:                    31
+  best training loss:            3.82995
+epoch 47
+loss = 4.264496
+loss = 3.981312
+training time 6:04:13.514039
+  training loss:                 4.1229
+  best epoch:                    31
+  best training loss:            3.82995
+epoch 48
+loss = 3.811280
+loss = 3.740288
+training time 6:04:17.639321
+  training loss:                 3.77578
+  best epoch:                    48
+  best training loss:            3.77578
+epoch 49
+loss = 4.241200
+loss = 3.892788
+training time 6:04:21.856857
+  training loss:                 4.06699
+  best epoch:                    48
+  best training loss:            3.77578
+epoch 50
+loss = 3.990891
+loss = 4.205767
+training time 6:04:26.128058
+  training loss:                 4.09833
+  best epoch:                    48
+  best training loss:            3.77578
+epoch 51
+loss = 4.168810
+loss = 3.829001
+training time 6:04:30.342484
+  training loss:                 3.99891
+  best epoch:                    48
+  best training loss:            3.77578
+epoch 52
+loss = 4.147879
+loss = 3.600512
+training time 6:04:34.506129
+  training loss:                 3.8742
+  best epoch:                    48
+  best training loss:            3.77578
+epoch 53
+loss = 3.891825
+loss = 3.888817
+training time 6:04:39.029038
+  training loss:                 3.89032
+  best epoch:                    48
+  best training loss:            3.77578
+epoch 54
+loss = 4.141256
+loss = 4.125459
+training time 6:04:43.286010
+  training loss:                 4.13336
+  best epoch:                    48
+  best training loss:            3.77578
+epoch 55
+loss = 4.290126
+loss = 3.631932
+training time 6:04:47.404803
+  training loss:                 3.96103
+  best epoch:                    48
+  best training loss:            3.77578
+epoch 56
+loss = 3.915078
+loss = 3.982706
+training time 6:04:51.840376
+  training loss:                 3.94889
+  best epoch:                    48
+  best training loss:            3.77578
+epoch 57
+loss = 4.060237
+loss = 3.732706
+training time 6:04:56.535376
+  training loss:                 3.89647
+  best epoch:                    48
+  best training loss:            3.77578
+epoch 58
+loss = 4.194204
+loss = 3.929600
+training time 6:05:00.678252
+  training loss:                 4.0619
+  best epoch:                    48
+  best training loss:            3.77578
+epoch 59
+loss = 3.998194
+loss = 4.043547
+training time 6:05:04.882029
+  training loss:                 4.02087
+  best epoch:                    48
+  best training loss:            3.77578
+epoch 60
+loss = 4.161096
+loss = 3.755595
+training time 6:05:09.093930
+  training loss:                 3.95835
+  best epoch:                    48
+  best training loss:            3.77578
+epoch 61
+loss = 4.046476
+loss = 3.716717
+training time 6:05:13.189298
+  training loss:                 3.8816
+  best epoch:                    48
+  best training loss:            3.77578
+epoch 62
+loss = 3.940674
+loss = 3.931084
+training time 6:05:17.357574
+  training loss:                 3.93588
+  best epoch:                    48
+  best training loss:            3.77578
+epoch 63
+loss = 4.095601
+loss = 3.961877
+training time 6:05:21.519674
+  training loss:                 4.02874
+  best epoch:                    48
+  best training loss:            3.77578
+epoch 64
+loss = 4.034464
+loss = 3.795408
+training time 6:05:25.760207
+  training loss:                 3.91494
+  best epoch:                    48
+  best training loss:            3.77578
+epoch 65
+loss = 4.060692
+loss = 3.817727
+training time 6:05:29.876218
+  training loss:                 3.93921
+  best epoch:                    48
+  best training loss:            3.77578
+epoch 66
+loss = 4.157414
+loss = 3.833707
+training time 6:05:34.006740
+  training loss:                 3.99556
+  best epoch:                    48
+  best training loss:            3.77578
+epoch 67
+loss = 3.920599
+loss = 3.830825
+training time 6:05:38.214907
+  training loss:                 3.87571
+  best epoch:                    48
+  best training loss:            3.77578
+epoch 68
+loss = 4.043519
+loss = 3.841462
+training time 6:05:42.336728
+  training loss:                 3.94249
+  best epoch:                    48
+  best training loss:            3.77578
+epoch 69
+loss = 4.168193
+loss = 3.708509
+training time 6:05:46.535684
+  training loss:                 3.93835
+  best epoch:                    48
+  best training loss:            3.77578
+epoch 70
+loss = 3.973996
+loss = 4.056508
+training time 6:05:50.814193
+  training loss:                 4.01525
+  best epoch:                    48
+  best training loss:            3.77578
+epoch 71
+loss = 4.384357
+loss = 4.105304
+training time 6:05:54.915963
+  training loss:                 4.24483
+  best epoch:                    48
+  best training loss:            3.77578
+epoch 72
+loss = 4.030045
+loss = 3.807655
+training time 6:05:59.023229
+  training loss:                 3.91885
+  best epoch:                    48
+  best training loss:            3.77578
+epoch 73
+loss = 4.064099
+loss = 3.982267
+training time 6:06:03.239962
+  training loss:                 4.02318
+  best epoch:                    48
+  best training loss:            3.77578
+epoch 74
+loss = 3.961597
+loss = 3.905951
+training time 6:06:07.421732
+  training loss:                 3.93377
+  best epoch:                    48
+  best training loss:            3.77578
+epoch 75
+loss = 3.998059
+loss = 4.000504
+training time 6:06:11.621990
+  training loss:                 3.99928
+  best epoch:                    48
+  best training loss:            3.77578
+epoch 76
+loss = 4.114336
+loss = 4.149085
+training time 6:06:15.777203
+  training loss:                 4.13171
+  best epoch:                    48
+  best training loss:            3.77578
+epoch 77
+loss = 4.130784
+loss = 3.831742
+training time 6:06:19.910968
+  training loss:                 3.98126
+  best epoch:                    48
+  best training loss:            3.77578
+epoch 78
+loss = 4.074115
+loss = 4.005461
+training time 6:06:23.990915
+  training loss:                 4.03979
+  best epoch:                    48
+  best training loss:            3.77578
+epoch 79
+loss = 4.240283
+loss = 3.805054
+training time 6:06:28.169124
+  training loss:                 4.02267
+  best epoch:                    48
+  best training loss:            3.77578
+epoch 80
+loss = 4.026206
+loss = 3.882751
+training time 6:06:32.346315
+  training loss:                 3.95448
+  best epoch:                    48
+  best training loss:            3.77578
+epoch 81
+loss = 4.136280
+loss = 3.864124
+training time 6:06:36.444145
+  training loss:                 4.0002
+  best epoch:                    48
+  best training loss:            3.77578
+epoch 82
+loss = 3.866146
+loss = 3.749713
+training time 6:06:40.563088
+  training loss:                 3.80793
+  best epoch:                    48
+  best training loss:            3.77578
+epoch 83
+loss = 4.021636
+loss = 3.916308
+training time 6:06:44.788961
+  training loss:                 3.96897
+  best epoch:                    48
+  best training loss:            3.77578
+epoch 84
+loss = 4.117329
+loss = 3.935077
+training time 6:06:48.962305
+  training loss:                 4.0262
+  best epoch:                    48
+  best training loss:            3.77578
+epoch 85
+loss = 4.142633
+loss = 3.848044
+training time 6:06:53.087849
+  training loss:                 3.99534
+  best epoch:                    48
+  best training loss:            3.77578
+epoch 86
+loss = 4.134606
+loss = 4.067132
+training time 6:06:57.239793
+  training loss:                 4.10087
+  best epoch:                    48
+  best training loss:            3.77578
+epoch 87
+loss = 3.644246
+loss = 3.517795
+training time 6:07:01.429696
+  training loss:                 3.58102
+  best epoch:                    87
+  best training loss:            3.58102
+epoch 88
+loss = 3.958571
+loss = 3.828685
+training time 6:07:05.631265
+  training loss:                 3.89363
+  best epoch:                    87
+  best training loss:            3.58102
+epoch 89
+loss = 3.756719
+loss = 4.063971
+training time 6:07:09.734913
+  training loss:                 3.91034
+  best epoch:                    87
+  best training loss:            3.58102
+epoch 90
+loss = 3.936230
+loss = 4.110364
+training time 6:07:13.847753
+  training loss:                 4.0233
+  best epoch:                    87
+  best training loss:            3.58102
+epoch 91
+loss = 4.047689
+loss = 3.872934
+training time 6:07:18.084402
+  training loss:                 3.96031
+  best epoch:                    87
+  best training loss:            3.58102
+epoch 92
+loss = 3.943585
+loss = 3.559903
+training time 6:07:22.184864
+  training loss:                 3.75174
+  best epoch:                    87
+  best training loss:            3.58102
+epoch 93
+loss = 4.220582
+loss = 3.896004
+training time 6:07:26.449211
+  training loss:                 4.05829
+  best epoch:                    87
+  best training loss:            3.58102
+epoch 94
+loss = 4.072973
+loss = 3.896157
+training time 6:07:30.673309
+  training loss:                 3.98457
+  best epoch:                    87
+  best training loss:            3.58102
+epoch 95
+loss = 3.992150
+loss = 3.988802
+training time 6:07:34.805256
+  training loss:                 3.99048
+  best epoch:                    87
+  best training loss:            3.58102
+epoch 96
+loss = 3.850544
+loss = 3.812340
+training time 6:07:38.917112
+  training loss:                 3.83144
+  best epoch:                    87
+  best training loss:            3.58102
+epoch 97
+loss = 3.890078
+loss = 3.985951
+training time 6:07:43.091084
+  training loss:                 3.93801
+  best epoch:                    87
+  best training loss:            3.58102
+epoch 98
+loss = 3.965592
+loss = 3.658890
+training time 6:07:47.244199
+  training loss:                 3.81224
+  best epoch:                    87
+  best training loss:            3.58102
+epoch 99
+loss = 3.985943
+loss = 3.964469
+training time 6:07:51.447131
+  training loss:                 3.97521
+  best epoch:                    87
+  best training loss:            3.58102
+epoch 100
+loss = 4.054651
+loss = 3.948458
+training time 6:07:55.688118
+  training loss:                 4.00155
+  best epoch:                    87
+  best training loss:            3.58102
+epoch 101
+loss = 4.374287
+loss = 3.611545
+training time 6:07:59.872785
+  training loss:                 3.99292
+  best epoch:                    87
+  best training loss:            3.58102
+epoch 102
+loss = 3.761449
+loss = 3.891439
+training time 6:08:04.001187
+  training loss:                 3.82644
+  best epoch:                    87
+  best training loss:            3.58102
+epoch 103
+loss = 3.918680
+loss = 3.964236
+training time 6:08:08.264970
+  training loss:                 3.94146
+  best epoch:                    87
+  best training loss:            3.58102
+epoch 104
+loss = 3.985333
+loss = 3.739018
+training time 6:08:12.402261
+  training loss:                 3.86218
+  best epoch:                    87
+  best training loss:            3.58102
+epoch 105
+loss = 3.884976
+loss = 3.688067
+training time 6:08:16.636707
+  training loss:                 3.78652
+  best epoch:                    87
+  best training loss:            3.58102
+epoch 106
+loss = 3.869389
+loss = 4.050021
+training time 6:08:20.825322
+  training loss:                 3.9597
+  best epoch:                    87
+  best training loss:            3.58102
+epoch 107
+loss = 3.906906
+loss = 4.011226
+training time 6:08:25.063680
+  training loss:                 3.95907
+  best epoch:                    87
+  best training loss:            3.58102
+epoch 108
+loss = 4.098318
+loss = 3.904357
+training time 6:08:29.458075
+  training loss:                 4.00134
+  best epoch:                    87
+  best training loss:            3.58102
+epoch 109
+loss = 4.006507
+loss = 3.938164
+training time 6:08:33.804239
+  training loss:                 3.97234
+  best epoch:                    87
+  best training loss:            3.58102
+epoch 110
+loss = 3.970266
+loss = 3.956120
+training time 6:08:39.776188
+  training loss:                 3.96319
+  best epoch:                    87
+  best training loss:            3.58102
+epoch 111
+loss = 4.301468
+loss = 4.086508
+training time 6:08:45.135820
+  training loss:                 4.19399
+  best epoch:                    87
+  best training loss:            3.58102
+epoch 112
+loss = 3.818511
+loss = 3.837869
+training time 6:08:50.119388
+  training loss:                 3.82819
+  best epoch:                    87
+  best training loss:            3.58102
+epoch 113
+loss = 3.721335
+loss = 3.660151
+training time 6:08:55.341699
+  training loss:                 3.69074
+  best epoch:                    87
+  best training loss:            3.58102
+epoch 114
+loss = 3.960167
+loss = 3.871023
+training time 6:09:00.572217
+  training loss:                 3.9156
+  best epoch:                    87
+  best training loss:            3.58102
+epoch 115
+loss = 3.798009
+loss = 3.681967
+training time 6:09:05.489973
+  training loss:                 3.73999
+  best epoch:                    87
+  best training loss:            3.58102
+epoch 116
+loss = 4.003694
+loss = 3.707886
+training time 6:09:10.479626
+  training loss:                 3.85579
+  best epoch:                    87
+  best training loss:            3.58102
+epoch 117
+loss = 4.091172
+loss = 3.794003
+training time 6:09:25.183230
+  training loss:                 3.94259
+  best epoch:                    87
+  best training loss:            3.58102
+epoch 118
+loss = 3.908566
+loss = 3.897319
+training time 6:09:37.175482
+  training loss:                 3.90294
+  best epoch:                    87
+  best training loss:            3.58102
+epoch 119
+loss = 3.782683
+loss = 3.834922
+training time 6:09:46.834064
+  training loss:                 3.8088
+  best epoch:                    87
+  best training loss:            3.58102
+epoch 120
+loss = 3.840409
+loss = 3.862942
+training time 6:09:56.805422
+  training loss:                 3.85168
+  best epoch:                    87
+  best training loss:            3.58102
+epoch 121
+loss = 3.879438
+loss = 3.618649
+training time 6:10:04.543328
+  training loss:                 3.74904
+  best epoch:                    87
+  best training loss:            3.58102
+epoch 122
+loss = 3.976548
+loss = 3.798254
+training time 6:10:09.405630
+  training loss:                 3.8874
+  best epoch:                    87
+  best training loss:            3.58102
+epoch 123
+loss = 4.022823
+loss = 3.704101
+training time 6:10:14.279046
+  training loss:                 3.86346
+  best epoch:                    87
+  best training loss:            3.58102
+epoch 124
+loss = 4.030291
+loss = 3.541110
+training time 6:10:19.048869
+  training loss:                 3.7857
+  best epoch:                    87
+  best training loss:            3.58102
+epoch 125
+loss = 4.192709
+loss = 3.668359
+training time 6:10:23.917013
+  training loss:                 3.93053
+  best epoch:                    87
+  best training loss:            3.58102
+epoch 126
+loss = 4.113342
+loss = 3.600512
+training time 6:10:28.569591
+  training loss:                 3.85693
+  best epoch:                    87
+  best training loss:            3.58102
+epoch 127
+loss = 3.776358
+loss = 4.067393
+training time 6:10:33.129315
+  training loss:                 3.92188
+  best epoch:                    87
+  best training loss:            3.58102
+epoch 128
+loss = 3.894542
+loss = 3.846343
+training time 6:10:38.921860
+  training loss:                 3.87044
+  best epoch:                    87
+  best training loss:            3.58102
+epoch 129
+loss = 4.170015
+loss = 3.477010
+training time 6:10:43.775919
+  training loss:                 3.82351
+  best epoch:                    87
+  best training loss:            3.58102
+epoch 130
+loss = 4.157340
+loss = 3.791768
+training time 6:10:48.511169
+  training loss:                 3.97455
+  best epoch:                    87
+  best training loss:            3.58102
+epoch 131
+loss = 3.960009
+loss = 4.064521
+training time 6:10:53.584193
+  training loss:                 4.01227
+  best epoch:                    87
+  best training loss:            3.58102
+epoch 132
+loss = 3.952564
+loss = 3.684189
+training time 6:10:58.322617
+  training loss:                 3.81838
+  best epoch:                    87
+  best training loss:            3.58102
+epoch 133
+loss = 3.857717
+loss = 3.818430
+training time 6:11:02.961234
+  training loss:                 3.83807
+  best epoch:                    87
+  best training loss:            3.58102
+epoch 134
+loss = 4.004907
+loss = 3.971177
+training time 6:11:07.616096
+  training loss:                 3.98804
+  best epoch:                    87
+  best training loss:            3.58102
+epoch 135
+loss = 3.841103
+loss = 3.895386
+training time 6:11:12.391743
+  training loss:                 3.86824
+  best epoch:                    87
+  best training loss:            3.58102
+epoch 136
+loss = 4.282977
+loss = 3.711340
+training time 6:11:17.356685
+  training loss:                 3.99716
+  best epoch:                    87
+  best training loss:            3.58102
+epoch 137
+loss = 4.111214
+loss = 3.897980
+training time 6:11:22.350040
+  training loss:                 4.0046
+  best epoch:                    87
+  best training loss:            3.58102
+epoch 138
+loss = 3.823624
+loss = 3.796971
+training time 6:11:27.070937
+  training loss:                 3.8103
+  best epoch:                    87
+  best training loss:            3.58102
+epoch 139
+loss = 4.035736
+loss = 3.904771
+training time 6:11:31.723735
+  training loss:                 3.97025
+  best epoch:                    87
+  best training loss:            3.58102
+epoch 140
+loss = 4.007156
+loss = 3.878273
+training time 6:11:35.869051
+  training loss:                 3.94271
+  best epoch:                    87
+  best training loss:            3.58102
+epoch 141
+loss = 3.789840
+loss = 3.776657
+training time 6:11:40.247481
+  training loss:                 3.78325
+  best epoch:                    87
+  best training loss:            3.58102
+epoch 142
+loss = 4.049556
+loss = 3.796850
+training time 6:11:45.192684
+  training loss:                 3.9232
+  best epoch:                    87
+  best training loss:            3.58102
+epoch 143
+loss = 3.912585
+loss = 3.825139
+training time 6:11:49.665537
+  training loss:                 3.86886
+  best epoch:                    87
+  best training loss:            3.58102
+epoch 144
+loss = 4.218970
+loss = 3.644376
+training time 6:11:54.311068
+  training loss:                 3.93167
+  best epoch:                    87
+  best training loss:            3.58102
+epoch 145
+loss = 3.909577
+loss = 3.702261
+training time 6:11:59.280530
+  training loss:                 3.80592
+  best epoch:                    87
+  best training loss:            3.58102
+epoch 146
+loss = 4.156798
+loss = 3.893358
+training time 6:12:04.434021
+  training loss:                 4.02508
+  best epoch:                    87
+  best training loss:            3.58102
+epoch 147
+loss = 3.891866
+loss = 3.628417
+training time 6:12:10.498470
+  training loss:                 3.76014
+  best epoch:                    87
+  best training loss:            3.58102
+epoch 148
+loss = 4.279447
+loss = 3.879644
+training time 6:12:15.447896
+  training loss:                 4.07955
+  best epoch:                    87
+  best training loss:            3.58102
+epoch 149
+loss = 4.021190
+loss = 3.884121
+training time 6:12:19.942273
+  training loss:                 3.95266
+  best epoch:                    87
+  best training loss:            3.58102
+epoch 150
+loss = 3.971151
+loss = 3.841262
+training time 6:12:24.380980
+  training loss:                 3.90621
+  best epoch:                    87
+  best training loss:            3.58102
+epoch 151
+loss = 3.886720
+loss = 3.731920
+training time 6:12:28.851016
+  training loss:                 3.80932
+  best epoch:                    87
+  best training loss:            3.58102
+epoch 152
+loss = 3.910278
+loss = 3.822563
+training time 6:12:33.255099
+  training loss:                 3.86642
+  best epoch:                    87
+  best training loss:            3.58102
+epoch 153
+loss = 3.990706
+loss = 3.638551
+training time 6:12:37.795380
+  training loss:                 3.81463
+  best epoch:                    87
+  best training loss:            3.58102
+epoch 154
+loss = 3.601244
+loss = 3.831506
+training time 6:12:42.481623
+  training loss:                 3.71637
+  best epoch:                    87
+  best training loss:            3.58102
+epoch 155
+loss = 3.895291
+loss = 3.681913
+training time 6:12:47.352280
+  training loss:                 3.7886
+  best epoch:                    87
+  best training loss:            3.58102
+epoch 156
+loss = 3.763137
+loss = 3.572000
+training time 6:12:52.187334
+  training loss:                 3.66757
+  best epoch:                    87
+  best training loss:            3.58102
+epoch 157
+loss = 4.024334
+loss = 3.847144
+training time 6:12:56.799407
+  training loss:                 3.93574
+  best epoch:                    87
+  best training loss:            3.58102
+epoch 158
+loss = 4.026542
+loss = 3.566143
+training time 6:13:01.216870
+  training loss:                 3.79634
+  best epoch:                    87
+  best training loss:            3.58102
+epoch 159
+loss = 3.929367
+loss = 3.802214
+training time 6:13:05.584411
+  training loss:                 3.86579
+  best epoch:                    87
+  best training loss:            3.58102
+epoch 160
+loss = 4.100790
+loss = 3.877245
+training time 6:13:10.452903
+  training loss:                 3.98902
+  best epoch:                    87
+  best training loss:            3.58102
+epoch 161
+loss = 3.944583
+loss = 3.724395
+training time 6:13:14.890838
+  training loss:                 3.83449
+  best epoch:                    87
+  best training loss:            3.58102
+epoch 162
+loss = 3.662359
+loss = 3.707496
+training time 6:13:19.193493
+  training loss:                 3.68493
+  best epoch:                    87
+  best training loss:            3.58102
+epoch 163
+loss = 4.099490
+loss = 3.782441
+training time 6:13:23.688304
+  training loss:                 3.94097
+  best epoch:                    87
+  best training loss:            3.58102
+epoch 164
+loss = 3.746953
+loss = 3.745649
+training time 6:13:28.685516
+  training loss:                 3.7463
+  best epoch:                    87
+  best training loss:            3.58102
+epoch 165
+loss = 3.968735
+loss = 3.856361
+training time 6:13:33.236897
+  training loss:                 3.91255
+  best epoch:                    87
+  best training loss:            3.58102
+epoch 166
+loss = 3.898151
+loss = 3.633145
+training time 6:13:37.692047
+  training loss:                 3.76565
+  best epoch:                    87
+  best training loss:            3.58102
+epoch 167
+loss = 3.748092
+loss = 3.830164
+training time 6:13:42.094221
+  training loss:                 3.78913
+  best epoch:                    87
+  best training loss:            3.58102
+epoch 168
+loss = 3.777088
+loss = 4.027493
+training time 6:13:46.515561
+  training loss:                 3.90229
+  best epoch:                    87
+  best training loss:            3.58102
+epoch 169
+loss = 3.769016
+loss = 3.645476
+training time 6:13:50.954959
+  training loss:                 3.70725
+  best epoch:                    87
+  best training loss:            3.58102
+epoch 170
+loss = 3.824244
+loss = 3.897973
+training time 6:13:55.375052
+  training loss:                 3.86111
+  best epoch:                    87
+  best training loss:            3.58102
+epoch 171
+loss = 3.950223
+loss = 4.031201
+training time 6:13:59.878879
+  training loss:                 3.99071
+  best epoch:                    87
+  best training loss:            3.58102
+epoch 172
+loss = 4.072608
+loss = 4.082428
+training time 6:14:04.331747
+  training loss:                 4.07752
+  best epoch:                    87
+  best training loss:            3.58102
+epoch 173
+loss = 3.867949
+loss = 3.473503
+training time 6:14:08.922538
+  training loss:                 3.67073
+  best epoch:                    87
+  best training loss:            3.58102
+epoch 174
+loss = 4.150877
+loss = 3.737972
+training time 6:14:13.245243
+  training loss:                 3.94442
+  best epoch:                    87
+  best training loss:            3.58102
+epoch 175
+loss = 3.931906
+loss = 3.618641
+training time 6:14:17.819772
+  training loss:                 3.77527
+  best epoch:                    87
+  best training loss:            3.58102
+epoch 176
+loss = 3.891558
+loss = 3.898515
+training time 6:14:22.228930
+  training loss:                 3.89504
+  best epoch:                    87
+  best training loss:            3.58102
+epoch 177
+loss = 3.762010
+loss = 4.010824
+training time 6:14:26.713600
+  training loss:                 3.88642
+  best epoch:                    87
+  best training loss:            3.58102
+epoch 178
+loss = 3.906413
+loss = 3.686596
+training time 6:14:31.275065
+  training loss:                 3.7965
+  best epoch:                    87
+  best training loss:            3.58102
+epoch 179
+loss = 3.953165
+loss = 3.722896
+training time 6:14:35.747704
+  training loss:                 3.83803
+  best epoch:                    87
+  best training loss:            3.58102
+epoch 180
+loss = 3.948066
+loss = 3.623089
+training time 6:14:40.214888
+  training loss:                 3.78558
+  best epoch:                    87
+  best training loss:            3.58102
+epoch 181
+loss = 4.135186
+loss = 3.939689
+training time 6:14:44.644252
+  training loss:                 4.03744
+  best epoch:                    87
+  best training loss:            3.58102
+epoch 182
+loss = 4.052759
+loss = 3.920824
+training time 6:14:49.243585
+  training loss:                 3.98679
+  best epoch:                    87
+  best training loss:            3.58102
+epoch 183
+loss = 3.931467
+loss = 3.725885
+training time 6:14:53.662760
+  training loss:                 3.82868
+  best epoch:                    87
+  best training loss:            3.58102
+epoch 184
+loss = 3.952466
+loss = 3.656474
+training time 6:14:58.152281
+  training loss:                 3.80447
+  best epoch:                    87
+  best training loss:            3.58102
+epoch 185
+loss = 3.980473
+loss = 3.477446
+training time 6:15:02.851944
+  training loss:                 3.72896
+  best epoch:                    87
+  best training loss:            3.58102
+epoch 186
+loss = 3.675618
+loss = 3.923448
+training time 6:15:07.266079
+  training loss:                 3.79953
+  best epoch:                    87
+  best training loss:            3.58102
+epoch 187
+loss = 3.973410
+loss = 3.784069
+training time 6:15:11.926007
+  training loss:                 3.87874
+  best epoch:                    87
+  best training loss:            3.58102
+epoch 188
+loss = 3.828907
+loss = 3.628244
+training time 6:15:16.648966
+  training loss:                 3.72858
+  best epoch:                    87
+  best training loss:            3.58102
+epoch 189
+loss = 4.127038
+loss = 3.789626
+training time 6:15:21.174043
+  training loss:                 3.95833
+  best epoch:                    87
+  best training loss:            3.58102
+epoch 190
+loss = 4.028931
+loss = 3.785240
+training time 6:15:25.727860
+  training loss:                 3.90709
+  best epoch:                    87
+  best training loss:            3.58102
+epoch 191
+loss = 3.890063
+loss = 3.884860
+training time 6:15:30.226252
+  training loss:                 3.88746
+  best epoch:                    87
+  best training loss:            3.58102
+epoch 192
+loss = 3.748540
+loss = 3.629211
+training time 6:15:34.707464
+  training loss:                 3.68888
+  best epoch:                    87
+  best training loss:            3.58102
+epoch 193
+loss = 4.139192
+loss = 3.643826
+training time 6:15:39.228674
+  training loss:                 3.89151
+  best epoch:                    87
+  best training loss:            3.58102
+epoch 194
+loss = 3.911584
+loss = 3.818962
+training time 6:15:43.861200
+  training loss:                 3.86527
+  best epoch:                    87
+  best training loss:            3.58102
+epoch 195
+loss = 3.695686
+loss = 3.839444
+training time 6:15:48.325088
+  training loss:                 3.76756
+  best epoch:                    87
+  best training loss:            3.58102
+epoch 196
+loss = 3.923730
+loss = 3.471042
+training time 6:15:52.716179
+  training loss:                 3.69739
+  best epoch:                    87
+  best training loss:            3.58102
+epoch 197
+loss = 4.166744
+loss = 3.999284
+training time 6:15:57.305872
+  training loss:                 4.08301
+  best epoch:                    87
+  best training loss:            3.58102
+epoch 198
+loss = 3.954891
+loss = 3.590457
+training time 6:16:01.760657
+  training loss:                 3.77267
+  best epoch:                    87
+  best training loss:            3.58102
+epoch 199
+loss = 3.936829
+loss = 3.807073
+training time 6:16:06.430049
+  training loss:                 3.87195
+  best epoch:                    87
+  best training loss:            3.58102
+epoch 200
+loss = 3.989963
+loss = 3.482297
+training time 6:16:10.923698
+  training loss:                 3.73613
+  best epoch:                    87
+  best training loss:            3.58102
+200 epochs training time 6:16:12.466675
+current time: 2017-11-29 11:03:16.253911

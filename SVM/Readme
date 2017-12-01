@@ -1,0 +1,13 @@
+sum
+-----------
+user instruction
+run & python SVM.py 1 (2, 3, 4, 5)
+-----------
+
+
+libraries:
+sklearn, matplotlib
+
+
+
+

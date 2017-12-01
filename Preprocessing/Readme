@@ -1,0 +1,26 @@
+Data_pre
+-----------
+-----------
+
+This set of algorithm is used for data pre-processing work for the Tadpole project
+Functions_yfx, Functions_hyz contains functions for pre-processing and parsing contains functions for pairing data after having been processed
+main.py should be used in the following way:
+read in the data to be processed, run the functions from date_to_num to label_to_num, then save the file and sort it in  time order, delete rows with same PID and same visiting time(if you run function locf, it will tell you which row has this problem). Read in the ordered data and then run functions like locf, scaling or PCA, then save the data.
+main2.py is used for parsing input data, before reading files, all data have to be sorted in increasing time order and then be sorted in increasing PID order
+-----------
+
+Some of the functions:
+select_sparse: 	        check the percentage of data filled in each feature and return the feature above a given threshold
+date_to_num(year,data): convert str_date to number
+onehotencoding:         do onehot_encoding to labels             
+label_to_num(data):     input is 2D list, automatic find str labels and transform them into increment number
+locf(data,columns to be deleted): use locf to do imputation
+PCA(data,threshold):    do PCA and return features whose variance add up to the threshold
+-----------
+
+libraries:
+python, sklearn, numpy are needed
+
+
+
+
