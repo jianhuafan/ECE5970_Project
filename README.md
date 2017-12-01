@@ -10,6 +10,7 @@ LSTM
 ## Results on train, test, validation data (LSTM)
 
 | data set | Accuracy of Diagnosis |MAE for ADAS|MAE for Ventricles Norm|MAE for MMSE|
+|---|---|---|---|---|
 | train | 93.3% | 2.21 | 0.0078 | 3.58 |
 | test | 77.5% | 4.93 | 0.0096 | 3.99 |
 | train | 77.0% | 4.95 | 0.0084 | 4.23 |
