@@ -29,17 +29,18 @@ $python train.py
 
 3. additional parameters can be added like 
 ```
-$python train.py  —max_epochs 100
+$python train.py  —-max_epochs 100
 ```
 type
 ```
-$python train.py —help
+$python train.py —-help
 ```
 to see more details.
 4. train_reg.py is used for prediction of continuous variables. Which variable should be specified when run it, otherwise it will predict MMSE by default. type
 ```
-$python train_reg.py —-help for more detail.
+$python train_reg.py —-help 
 ```
+for more detail.
 
 ### Test and validation of LSTM
 
